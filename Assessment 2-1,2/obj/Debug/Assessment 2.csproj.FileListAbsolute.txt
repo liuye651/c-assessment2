@@ -1,0 +1,11 @@
+C:\Users\gin19\source\repos\Assessment 2\bin\Debug\Assessment 2.exe.config
+C:\Users\gin19\source\repos\Assessment 2\bin\Debug\Assessment 2.exe
+C:\Users\gin19\source\repos\Assessment 2\bin\Debug\Assessment 2.pdb
+C:\Users\gin19\source\repos\Assessment 2\obj\Debug\Assessment 2.csproj.AssemblyReference.cache
+C:\Users\gin19\source\repos\Assessment 2\obj\Debug\Assessment_2.FrmMain.resources
+C:\Users\gin19\source\repos\Assessment 2\obj\Debug\Assessment_2.Properties.Resources.resources
+C:\Users\gin19\source\repos\Assessment 2\obj\Debug\Assessment 2.csproj.GenerateResource.cache
+C:\Users\gin19\source\repos\Assessment 2\obj\Debug\Assessment 2.csproj.CoreCompileInputs.cache
+C:\Users\gin19\source\repos\Assessment 2\obj\Debug\Assessment 2.exe
+C:\Users\gin19\source\repos\Assessment 2\obj\Debug\Assessment 2.pdb
+C:\Users\gin19\source\repos\Assessment 2\obj\Debug\Assessment_2.frmDragdrop.resources
