@@ -1,0 +1,20 @@
+C:\Users\gin19\source\repos\Assessment 1c\bin\Debug\Assessment 1c.exe.config
+C:\Users\gin19\source\repos\Assessment 1c\bin\Debug\Assessment 1c.exe
+C:\Users\gin19\source\repos\Assessment 1c\bin\Debug\Assessment 1c.pdb
+C:\Users\gin19\source\repos\Assessment 1c\obj\Debug\Assessment 1c.csproj.AssemblyReference.cache
+C:\Users\gin19\source\repos\Assessment 1c\obj\Debug\Assessment_1c.Properties.Resources.resources
+C:\Users\gin19\source\repos\Assessment 1c\obj\Debug\Assessment 1c.csproj.GenerateResource.cache
+C:\Users\gin19\source\repos\Assessment 1c\obj\Debug\Assessment 1c.csproj.CoreCompileInputs.cache
+C:\Users\gin19\source\repos\Assessment 1c\obj\Debug\Assessment 1c.exe
+C:\Users\gin19\source\repos\Assessment 1c\obj\Debug\Assessment 1c.pdb
+C:\Users\gin19\source\repos\Assessment 1c\obj\Debug\Assessment_1c.frmMain.resources
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\bin\Debug\Assessment 1c.exe.config
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\bin\Debug\Assessment 1c.exe
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\bin\Debug\Assessment 1c.pdb
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\obj\Debug\Assessment 1c.csproj.AssemblyReference.cache
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\obj\Debug\Assessment_1c.Properties.Resources.resources
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\obj\Debug\Assessment 1c.csproj.GenerateResource.cache
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\obj\Debug\Assessment 1c.csproj.CoreCompileInputs.cache
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\obj\Debug\Assessment 1c.exe
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\obj\Debug\Assessment 1c.pdb
+C:\Users\gin19\OneDrive\cit\c#\Assessment 2\Assessment 1c\obj\Debug\Assessment_1c.frmMain.resources
